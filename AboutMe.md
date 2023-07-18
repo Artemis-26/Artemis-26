@@ -1,0 +1,5 @@
+- 👋 Hi, I’m **@Artemis-26**.
+- 👀 I’m interested in ~~**Girls**~~ programming and football.
+- 🌱 I’m currently learning **JavaScript**.
+- 💞️ I’m looking to collaborate on nothing.
+- 📫 How to reach me - ~~with your hand~~ no way.
